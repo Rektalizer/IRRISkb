@@ -56,6 +56,76 @@
               "question": "Что реализовано в IRRISketch?"
             }
           ]
+        },
+        {
+          "context": "Ротор MP1000-90 также известен как форсунка Hunter MP Rotator MP100090",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Ротор MP1000-90"
+                }
+              ],
+              "id": "0",
+              "question": "Форсунка Hunter MP Rotator MP100090"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 35,
+                  "text": "Форсунка Hunter MP Rotator MP100090"
+                }
+              ],
+              "id": "1",
+              "question": "Ротор MP1000-90"
+            }
+          ]
+        },
+        {
+          "context": "Техническую поддержку IRRISketch можно получить различными способами. По ссылке — https://irrisketch.ru/support. Отправить письмо по адресу Irrishelp@gmail.com. Написать в наш чат WhatsApp или Telegram по ссылке https://t.me/irrisketch",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Техническую поддержку IRRISketch можно получить различными способами. По ссылке — https://irrisketch.ru/support. Отправить письмо по адресу Irrishelp@gmail.com. Написать в наш чат WhatsApp или Telegram по ссылке https://t.me/irrisketch"
+                }
+              ],
+              "id": "0",
+              "question": "Мне нужна помощь"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 70,
+                  "text": "Техподдержка принимает заявки по адресу https://irrisketch.ru/support"
+                }
+              ],
+              "id": "1",
+              "question": "Написать в техподдержку"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 70,
+                  "text": "Отправить письмо можно по адресу Irrishelp@gmail.com"
+                }
+              ],
+              "id": "2",
+              "question": "Письмо в техподдержку"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 161,
+                  "text": "Для получения срочной помощи вы можете написать в наш чат WhatsApp или Telegram по ссылке https://t.me/irrisketch"
+                }
+              ],
+              "id": "3",
+              "question": "Нужна срочная помощь"
+            }
+          ]
         }
       ]
     }
